@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95.359" height="63.467" viewBox="0 0 95.359 63.467">
+  <g id="contactless-card" transform="translate(-20.311 -18.628)">
+    <g id="Group_391" data-name="Group 391" transform="translate(22.311 20.628)">
+      <path id="Path_922" data-name="Path 922" d="M1,59.061V10.406C1,7.42,3.727,5,7.091,5H86.269c3.364,0,6.091,2.42,6.091,5.406V59.061c0,2.986-2.727,5.406-6.091,5.406H7.091C3.727,64.467,1,62.047,1,59.061Z" transform="translate(-1 -5)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_57" data-name="Line 57" x2="37" transform="translate(15.024 45.685)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_58" data-name="Line 58" x2="12" transform="translate(64.024 45.685)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <rect id="Rectangle_323" data-name="Rectangle 323" width="15" height="12" transform="translate(15.024 12.685)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="Group_392" data-name="Group 392" transform="translate(50.024 10.554)">
+        <g id="Group_393" data-name="Group 393">
+          <path id="Path_920" data-name="Path 920" d="M24.865,32.416a21.244,21.244,0,0,0,0-23.23" transform="translate(-2.213 -9.186)" fill="none" stroke="#ffb50c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_921" data-name="Path 921" d="M21.34,22.448a8.953,8.953,0,0,0,0-11.3" transform="translate(-9.423 -5.181)" fill="none" stroke="#ffb50c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_23" data-name="Ellipse 23" cx="2.5" cy="2.5" r="2.5" transform="translate(0 9.13)" fill="#ffb50c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

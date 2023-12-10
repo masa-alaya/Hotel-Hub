@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "~aos/dist/aos.css";
+
+:root {
+    /* --swiper-pagination-color: rgb(202 138 4) !important; */
+    /* --swiper-pagination-bottom: -8px !important; */
+}
+
+/* to remove the up and bottom arrow from input type number */
+@layer base {
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+}
+
+.swiper-button-prev {
+    color: rgb(202 138 4) !important;
+}
+  
+.swiper-button-next {
+    color: rgb(202 138 4) !important;
+}
+
+@media (width < 376px) {
+    .swiper-button-prev {
+        display: none !important;
+    }
+      
+    .swiper-button-next {
+        display: none !important;
+    }
+}
+
+.swiper-slide {
+    height: 98% !important;
+    /* width: 80% !important; */
+}
+
+.invalid-anim {
+    animation: shake 1s linear;
+}
+
+@keyframes shake {
+    25%  {transform: translateX(4px);}
+    50%  {transform: translateX(-4px);}
+    75%  {transform: translateX(4px);}
+    100% {transform: translateX(-4px);}
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+input[type="number"]:hover,
+input[type="number"]:focus {
+    -moz-appearance: number-input;
+}
+
+.swiper-container {
+    position: relative;
+    max-height: fit-content;
+}

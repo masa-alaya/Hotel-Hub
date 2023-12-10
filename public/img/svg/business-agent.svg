@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88.609" height="94.652" viewBox="0 0 88.609 94.652">
+  <g id="business-agent" transform="translate(-2)">
+    <g id="Group_368" data-name="Group 368" transform="translate(4 2)">
+      <path id="Path_895" data-name="Path 895" d="M46.554,76.5H70.728V62.953a12.087,12.087,0,0,0-8.766-11.622L39,44.771V33.618" transform="translate(13.881 14.153)" fill="none" stroke="#182966" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_896" data-name="Path 896" d="M35.728,33.618V44.771l-22.962,6.56A12.088,12.088,0,0,0,4,62.953V76.5H28.174" transform="translate(-4 14.153)" fill="none" stroke="#182966" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_897" data-name="Path 897" d="M39.152,53.37h0C27.47,53.37,18,40.878,18,29.2V23.152A21.152,21.152,0,0,1,39.152,2h0A21.152,21.152,0,0,1,60.3,23.152V29.2C60.3,40.878,50.834,53.37,39.152,53.37Z" transform="translate(3.152 -2)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_898" data-name="Path 898" d="M18.019,17.374a27.157,27.157,0,0,0,10.547,2.09c7.426,0,14-2.871,18.13-7.285a23.874,23.874,0,0,0,13.6,6.893" transform="translate(3.162 3.2)" fill="none" stroke="#182966" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_899" data-name="Path 899" d="M38.087,44H32.043L26,71.2H44.13Z" transform="translate(7.239 19.457)" fill="none" stroke="#ffb50c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

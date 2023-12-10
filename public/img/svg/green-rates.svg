@@ -1,0 +1,14 @@
+<svg id="Menu" xmlns="http://www.w3.org/2000/svg" width="110" height="113.592" viewBox="0 0 110 113.592">
+  <g id="menu-login2-copy-4">
+    <g id="Group-5">
+      <path id="Fill-3" d="M68.6,68.05H9.2c0-13.2,8.25-24.2,19.25-28.05A20.125,20.125,0,0,1,19.1,22.95c0-11,8.8-20.35,19.8-20.35s19.8,8.8,19.8,20.35A20.125,20.125,0,0,1,49.35,40C60.35,43.85,68.6,54.85,68.6,68.05ZM24.05,22.4c0,8.25,6.6,15.4,14.85,15.4s14.85-6.6,14.85-15.4S47.15,7,38.9,7,24.05,14.15,24.05,22.4ZM38.9,42.75A24.76,24.76,0,0,0,14.7,63.1H63.1A24.249,24.249,0,0,0,38.9,42.75Z" transform="translate(41.4 11.7)" fill="#ffc226"/>
+      <path id="Fill-3-Copy" d="M59.4,65.45H0c0-13.2,8.25-24.2,19.25-28.05-5.5-3.85-9.35-9.9-9.35-17.05C9.9,9.35,18.7,0,29.7,0S49.5,8.8,49.5,20.35c0,7.15-3.85,13.2-9.35,17.05A29.845,29.845,0,0,1,59.4,65.45ZM14.85,20.35a14.85,14.85,0,0,0,29.7,0c0-8.25-6.6-15.4-14.85-15.4S14.85,12.1,14.85,20.35ZM29.7,40.15A24.76,24.76,0,0,0,5.5,60.5H53.9A24.76,24.76,0,0,0,29.7,40.15Z" fill="#00722b"/>
+      <g id="Group-8" transform="translate(93.318 63.865) rotate(90)">
+        <path id="Line" d="M0,29.15V0" transform="translate(17.05 46.75)" fill="none" stroke="#00722b" stroke-linecap="round" stroke-width="5"/>
+        <path id="Path-4" d="M0,0,17.6,14.3,34.65,0" transform="translate(0 63.8)" fill="none" stroke="#00722b" stroke-linecap="round" stroke-width="5"/>
+        <path id="Line-Copy-2_1_" d="M0,28.6V0" transform="translate(29.6 5.6)" fill="none" stroke="#ffc226" stroke-linecap="round" stroke-width="5"/>
+        <path id="Path-4-Copy-2" d="M0,14.3,18.15,0l16.5,14.3" transform="translate(11.55)" fill="none" stroke="#ffc226" stroke-linecap="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="60" viewBox="0 0 68 60">
+  <g id="Group_403" data-name="Group 403" transform="translate(-25 -257)">
+    <rect id="Rectangle_313" data-name="Rectangle 313" width="68" height="60" rx="6" transform="translate(25 257)" fill="#ffb50c"/>
+    <g id="school" transform="translate(39.244 266.244)">
+      <g id="Group_402" data-name="Group 402" transform="translate(2 2)">
+        <path id="Path_927" data-name="Path 927" d="M32,11.47V2h6.51V6.735H32" transform="translate(-14.244 -2)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_928" data-name="Path 928" d="M32.735,56.286V48H28v8.286" transform="translate(-12.612 -20.774)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        <rect id="Rectangle_325" data-name="Rectangle 325" width="4" height="4" transform="translate(15.756 17.756)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        <rect id="Rectangle_326" data-name="Rectangle 326" width="5" height="4" transform="translate(4.756 26.756)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        <rect id="Rectangle_327" data-name="Rectangle 327" width="5" height="4" transform="translate(25.756 26.756)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_929" data-name="Path 929" d="M28.042,29.837V23.919L19.756,18,11.47,23.919v5.919H2v14.2H37.512v-14.2Z" transform="translate(-2 -8.53)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.421" height="109.931" viewBox="0 0 132.421 109.931">
+  <g id="mobile-banking" transform="translate(53.801 1)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M15312.593-11428.256h-.006c-2.644,0-4.344-.411-5.515-1.333-1.395-1.1-2.072-3.012-2.072-5.849h57.8v6.729h-40.072c-2.016,0-3.914.127-5.75.25C15315.413-11428.354,15313.933-11428.256,15312.593-11428.256Zm50.209-18.368h-47.165v-42.552a10.566,10.566,0,0,1,3.116-7.522,10.58,10.58,0,0,1,7.524-3.114h36.524v53.188Z" transform="translate(-15356.801 11517)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    <g id="Group_366" data-name="Group 366" transform="translate(6 1)">
+      <path id="Path_892" data-name="Path 892" d="M66.027,106.931H16.593A10.593,10.593,0,0,1,6,96.338V11.593A10.593,10.593,0,0,1,16.593,1H66.027A10.593,10.593,0,0,1,76.62,11.593V96.338a10.593,10.593,0,0,1-10.593,10.593Z" transform="translate(-6 -1)" fill="none" stroke="#182966" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <g id="loan" transform="translate(18.626 36.343)">
+        <g id="Group_365" data-name="Group 365" transform="translate(0)">
+          <circle id="Ellipse_17" data-name="Ellipse 17" cx="7.658" cy="7.658" r="7.658" transform="translate(13.785)" fill="#fff" stroke="#ffb50c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+          <path id="Path_891" data-name="Path 891" d="M25.506,18.127h2.815a4.6,4.6,0,0,1,4.359,3.141l.484,1.453L15.6,28.127a6.127,6.127,0,0,1-4.541-.377L1,22.721V12H2.532c1.692,0,5.983.671,7.658,3.063h4.595a6.127,6.127,0,0,1,6.127,6.127h-9.19" transform="translate(-1 4.848)" fill="#fff" stroke="#ffb50c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+          <line id="Line_51" data-name="Line 51" y2="3.063" transform="translate(21.443 6.127)" fill="none" stroke="#ffb50c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+      </g>
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="3.5" cy="3.5" r="3.5" transform="translate(31.8 90.082)" fill="#182966"/>
+    </g>
+  </g>
+</svg>

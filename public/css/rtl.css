@@ -1,0 +1,214 @@
+/* @font-face {
+	font-family: 'Fru-Regular';
+	src: local('☺'),url('/fonts/ar/FrutigerLTArabic55Roman.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fru-Bold';
+	src: local('☺'),url('/fonts/ar/FrutigerLTArabic65Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fru-light';
+	src: local('☺'),url('/fonts/ar/FrutigerLTArabic45Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fru-Italic';
+	src: local('☺'),url('/fonts/ar/frutigerltarabic75black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+} */
+:root {
+     /* ar font family */
+    /* --bold-ar:"Fru-Bold";
+    --regular-ar:"Fru-Regular";
+    --light-ar:"Fru-light";
+    --italic-ar:"Fru-Italic"; */
+     /* ar font family */
+    }
+
+body
+{
+    direction: rtl;
+    overflow-x: hidden;
+
+}
+.text-end {
+    text-align: left!important;
+}
+.ms-auto {
+    margin-right: auto!important;
+}
+.home-roots {
+
+    /*direction: ltr;*/
+}
+section.ar-uai {
+    direction: ltr;
+}
+.col-megamenu {
+    text-align: right;
+}
+.slide-img {
+    direction: ltr;
+
+}
+.banner-text-animate {
+    text-align: right;
+}
+.banner-text-animate .d-flex {
+    justify-content: end;
+    flex-direction: row-reverse;
+}
+.card-sec {
+    border-radius: 9px;
+    width: 90%;
+    height: 60vh;
+}
+.arrow-icon
+{
+	transform: rotate(180deg)!important;
+}
+.home-roots
+{
+	background-position: left bottom;
+}
+.nav-headers .nav-item
+{
+	flex-shrink: 0;
+}
+
+.exchange-bg
+{
+	background-position: left;
+	background-image: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(244,248,251,1) 100%), url(/img/jpg/Working-Capital-Image-3.jpg);
+}
+.exchange-switcher-container > div:first-child {
+    border-left: 1px solid var(--blue-color);
+    border-right: 0;
+}
+.curr-ex-container .ex-single
+{
+	margin-right: 1px;
+    margin-left: 0.28571429%;
+}
+.range-num.text-end
+{
+	/*text-align: right!important;*/
+}
+
+
+.fa-angle-right:before
+{
+	    content: "\f104";
+}
+.pill-content {
+    text-align: right;
+    padding-right: 33%;
+    padding-left: 19%;
+}
+.about-member-pill
+{
+	    margin-right: -23.6%;
+	    margin-left: 0;
+}
+.icon-next-contact
+{
+	margin-right: 1rem;
+}
+.bullet-list > li
+{
+	margin-right: 1.4rem;
+	margin-left: 0;
+}
+.auto-list > li
+{
+    margin-right: 1.4rem;
+	margin-left: 0;
+}
+.read-more-arrow
+{
+	    margin-left: 0;
+    transform: rotate(180deg);
+    margin-right: 10px;
+}
+.radio-subject label
+{
+	margin-right: 0.4rem;
+	margin-left: 0;
+}
+/* .downloads-tabs
+{
+	flex-wrap: nowrap;
+} */
+
+.downloads-tabs li
+{
+	flex-shrink: 0;
+}
+.apply-now-btn
+{
+	direction: rtl;
+}
+.dec-rtl
+{
+	direction: rtl;
+}
+.about-logo
+{
+	background-image: url(/img/png/about-mark-3.png);
+}
+.small-arrow-icon {
+    padding: 0 1rem 8px 1rem;
+    width: 2.4rem;
+    margin-top: -0.7rem;
+    transform: rotate(177deg);
+}
+
+.calc-section .nav-pills
+{
+	float: left;
+}
+
+.banner-max-w {
+    max-width: 550px;
+}
+
+.input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback)
+{
+	    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+        border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.s-b-p{
+    right: auto !important;
+    left: 10% !important;
+}
+.s-b-n {
+
+    left: auto !important;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: auto ;
+    left: auto;
+}
+.card2-icon {
+    right: 75% !important;
+}
+.person-book-icon{
+    margin-left: 5% !important;
+}
+.about-member-pill{
+    margin-right: 0% !important;
+}
+.pill-content{
+    padding-right: 20%;
+}
+.btn-price{
+    left:-40% !important;
+}
